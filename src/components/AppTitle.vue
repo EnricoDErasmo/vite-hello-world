@@ -18,7 +18,12 @@ export default {
 
 <style>
 .title {
-    font-size: 3em;
+    width: 100%;
+
     text-align: center;
+
+    font-size: 5em;
+
+    color: #a264f7;
 }
 </style>
